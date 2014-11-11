@@ -4,3 +4,4 @@ hiiiiii
 *git
 *react
 *mysql
+*Killing history using git rebase
