@@ -1,2 +1,6 @@
 hiiiiii
-ruby is the best
+*ruby 
+*javascript
+*git
+*react
+*mysql
