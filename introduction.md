@@ -1,2 +1,7 @@
 hiiiiii
-ruby is the best
+*ruby 
+*javascript
+*git
+*react
+*mysql
+*Killing history using git rebase
